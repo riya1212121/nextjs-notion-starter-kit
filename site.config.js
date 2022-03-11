@@ -12,14 +12,15 @@ module.exports = {
   author: 'Riya',
 
   // open graph metadata (optional)
-  description: 'This website is created to share timepass only. I have no serrious intention and evrything I\'m sharing is already available on the internet 👍',
+  description:
+    "This website is created to share timepass only. I have no serrious intention and evrything I'm sharing is already available on the internet 👍",
   socialImageTitle: 'xTop Riya',
-  socialImageSubtitle: 'Let\' watch',
+  socialImageSubtitle: "Let' watch",
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '#',
+  github: '#',
+  linkedin: '#',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
